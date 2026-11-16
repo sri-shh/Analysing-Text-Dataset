@@ -1,4 +1,4 @@
-# Analysing-Text-Dataset-Week-3
+# Analysing-Text-Dataset
 TASK 103 (3 business questions answerable from this text data)
 
 1. Does AI-generated content differ from human-written content in length and complexity?
